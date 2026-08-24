@@ -1,105 +1,105 @@
 
-x = 10
-if (x > 5):
-    x += 1
-    print(x)
+# x = 10
+# if (x > 5):
+#     x += 1
+#     print(x)
 
 
-age = int(input("enter your age :"))
+# age = int(input("enter your age :"))
 
-if (age >= 18):
-    print("you can vote \n you can drive ")
-else : 
-    print("you can't vote ")
+# if (age >= 18):
+#     print("you can vote \n you can drive ")
+# else : 
+#     print("you can't vote ")
    
 
-color = input("Write a color :")
+# color = input("Write a color :")
 
-if  (color == "Red"):
-    print("Stop")
-elif (color == "Green"):
-    print("Go")
-elif (color == "Yellow"): 
-    print("Look")
-else:
-    print("Wrong color For traffic light")
-
-
-
-
-age = int(input("Enter your Age :"))
-
-if (age < 13 ):
-    print("Child")
-elif(age >= 13) and (age < 18):
-    print("Teeneger")
-else:
-    print("Adult")
+# if  (color == "Red"):
+#     print("Stop")
+# elif (color == "Green"):
+#     print("Go")
+# elif (color == "Yellow"): 
+#     print("Look")
+# else:
+#     print("Wrong color For traffic light")
 
 
 
 
+# age = int(input("Enter your Age :"))
 
-
-username = input("Enter the username : ")
-password = input("Enter the password : ")
-
-if (username == "admin") and (password == "pass"):
-    print("Login Sucessfully")
-elif(username != "admin"):
-    print("Wrong Username")
-elif(password != "pass"):
-    print("wrong password")
-else:
-    print("wrong entry ")
+# if (age < 13 ):
+#     print("Child")
+# elif(age >= 13) and (age < 18):
+#     print("Teeneger")
+# else:
+#     print("Adult")
 
 
 
 
 
 
-number = int(input("enter the multipel of 5 :"))
+# username = input("Enter the username : ")
+# password = input("Enter the password : ")
 
-if (number % 5 == 0):
-    print("Yes,",number," this is a multiple of 5")
-else:
-    print("NO,",number,"is not a multiple of 5 ")
-
-
-
-
-
-n = int(input("Enter the number :"))
-
-if(n % 2 == 0):
-    print("Yes",n,"is Even")
-else:
-    print("Yes",n," is Odd")
+# if (username == "admin") and (password == "pass"):
+#     print("Login Sucessfully")
+# elif(username != "admin"):
+#     print("Wrong Username")
+# elif(password != "pass"):
+#     print("wrong password")
+# else:
+#     print("wrong entry ")
 
 
 
-username = input("enter username :")
-password = input("enter Password :")
-
-if (username == "admin") and (password == "pass"):
-    print("Sucess")
-else:
-    if(username != "admin"):
-        print("Wrong username ")
-    else:
-        print("Wroing password")`
 
 
 
-color = input("Enter color :")
+# number = int(input("enter the multipel of 5 :"))
 
-match color:
-    case "Green":
-        print("Go")
-    case "Yellow":
-        print("Look")
-    case "Red":
-        print("Stop")
-    case _:
-        print("Wrong color")
+# if (number % 5 == 0):
+#     print("Yes,",number," this is a multiple of 5")
+# else:
+#     print("NO,",number,"is not a multiple of 5 ")
+
+
+
+
+
+# n = int(input("Enter the number :"))
+
+# if(n % 2 == 0):
+#     print("Yes",n,"is Even")
+# else:
+#     print("Yes",n," is Odd")
+
+
+
+# username = input("enter username :")
+# password = input("enter Password :")
+
+# if (username == "admin") and (password == "pass"):
+#     print("Sucess")
+# else:
+#     if(username != "admin"):
+#         print("Wrong username ")
+#     else:
+#         print("Wroing password")`
+
+
+
+# color = input("Enter color :")
+
+# match color:
+#     case "Green":
+#         print("Go")
+#     case "Yellow":
+#         print("Look")
+#     case "Red":
+#         print("Stop")
+#     case _:
+#         print("Wrong color")
       
