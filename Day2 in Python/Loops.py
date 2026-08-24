@@ -26,7 +26,7 @@
 #     i+=1
 
 
-# Multiplication table of any number
+ # Multiplication table of any number
 # table = int(input("Enter the number :"))
 # i = 1
 
