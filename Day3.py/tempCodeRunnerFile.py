@@ -1,3 +1,1 @@
-print(info.keys())
-print(info.values())
-print(info.items())
+ # print(tup[0])  #name
