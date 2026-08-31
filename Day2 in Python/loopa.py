@@ -52,13 +52,22 @@
 # else:
 #     print("Number is odd")
 
-username = input("Enter your username: ")
-password = input("Enter your password: ")
+# username = input("Enter your username: ")
+# password = input("Enter your password: ")
 
-if (username == "admin" and password == "pass"):
-    print("Login Successful")
-else:
-    if( username != "admin"):
-        print("wrong username")
-    else:
-        print("wrong password")
+# if (username == "admin" and password == "pass"):
+#     print("Login Successful")
+# else:
+#     if( username != "admin"):
+#         print("wrong username")
+#     else:
+#         print("wrong password")
+
+
+# string = "hello"
+
+# for var in string:
+#     print(var)
+
+
+
