@@ -1,23 +1,46 @@
 
 
+# info = {
+#     "name": 'Mohit',
+#     "cgpa": 9.2,
+#     "Subject": ["math","science"],
+#     3.14: "PI"
+# }
+
+# info["cgpa"] = 9.55
+# print(type(info))
+# print(info["cgpa"])
+
+# print(info.keys())
+# print(info.values())
+# print(info.items())
+# print(info.get(3.14))
+# info.update({
+#     "city": "Delghi",
+
+# })
+
+# print(info)
+
+
+
 info = {
-    "name": 'Mohit',
-    "cgpa": 9.2,
-    "Subject": ["math","science"],
-    3.14: "PI"
+    "name": "mohit",
+    "CGPA": 9.56,
+    "Subject": ["maths" , "Science"],
+    3.14 : "PI"
 }
 
-info["cgpa"] = 9.55
+print(info)
 print(type(info))
-print(info["cgpa"])
-
+print(info["Subject"])
 print(info.keys())
 print(info.values())
 print(info.items())
 print(info.get(3.14))
-info.update({
-    "city": "Delghi",
 
+info.update({
+    "city" : "Delhi"
 })
 
 print(info)
