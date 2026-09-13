@@ -9,6 +9,6 @@
 
 ##delete
 
-import os
+# import os
 
-os.remove("sample2.txt")
+# os.remove("sample2.txt")

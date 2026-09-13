@@ -35,9 +35,9 @@
 
 ## usign r+
 
-f = open("sample.txt","w+")
+# f = open("sample.txt","w+")
 
-print(f.read())
-f.write("123")
+# print(f.read())
+# f.write("123")
 
-f.close()
+# f.close()
