@@ -1,10 +1,5 @@
 {
-    "name":"mohit",
+    "age": 27,
     "isTeacher": true,
-    "address":{
-        "city":"Delhi",
-        "country":"India"
-    },
-    "Subject":["pyton","Array"]
-
+    "name": "mohit"
 }
